@@ -1,0 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+// the configured options and settings for fentasy
+#define FENTASY_VERSION_MAJOR @fentasy_VERSION_MAJOR@
+#define FENTASY_VERSION_MINOR @fentasy_VERSION_MINOR@
+#define FENTASY_VERSION @fentasy_VERSION_MAJOR@.@fentasy_VERSION_MINOR@ 
